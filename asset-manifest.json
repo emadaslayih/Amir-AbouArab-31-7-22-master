@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amir-AbouArab-31-7-22/static/css/main.eb9a99b0.css",
+    "main.js": "/Amir-AbouArab-31-7-22/static/js/main.a57bd329.js",
+    "static/js/787.13d76ca7.chunk.js": "/Amir-AbouArab-31-7-22/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/Amir-AbouArab-31-7-22/index.html",
+    "main.eb9a99b0.css.map": "/Amir-AbouArab-31-7-22/static/css/main.eb9a99b0.css.map",
+    "main.a57bd329.js.map": "/Amir-AbouArab-31-7-22/static/js/main.a57bd329.js.map",
+    "787.13d76ca7.chunk.js.map": "/Amir-AbouArab-31-7-22/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb9a99b0.css",
+    "static/js/main.a57bd329.js"
+  ]
+}
