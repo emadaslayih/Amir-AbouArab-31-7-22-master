@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Amir-AbouArab-31-7-22-master/static/css/main.eb9a99b0.css",
-    "main.js": "/Amir-AbouArab-31-7-22-master/static/js/main.b8a6d1e1.js",
+    "main.js": "/Amir-AbouArab-31-7-22-master/static/js/main.fd033f42.js",
     "static/js/787.13d76ca7.chunk.js": "/Amir-AbouArab-31-7-22-master/static/js/787.13d76ca7.chunk.js",
     "index.html": "/Amir-AbouArab-31-7-22-master/index.html",
     "main.eb9a99b0.css.map": "/Amir-AbouArab-31-7-22-master/static/css/main.eb9a99b0.css.map",
-    "main.b8a6d1e1.js.map": "/Amir-AbouArab-31-7-22-master/static/js/main.b8a6d1e1.js.map",
+    "main.fd033f42.js.map": "/Amir-AbouArab-31-7-22-master/static/js/main.fd033f42.js.map",
     "787.13d76ca7.chunk.js.map": "/Amir-AbouArab-31-7-22-master/static/js/787.13d76ca7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb9a99b0.css",
-    "static/js/main.b8a6d1e1.js"
+    "static/js/main.fd033f42.js"
   ]
 }
