@@ -10,7 +10,7 @@ export default function Favorites(props) {
 
   return (
     <div className='favMainDiv'>
-        
+
         {props.favorites.map((val,i)=>{
           return(
             <div className='favDiv' onClick={()=>{

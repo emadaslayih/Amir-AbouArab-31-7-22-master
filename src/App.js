@@ -1,6 +1,6 @@
 import Homepage from './components/Homepage';
 import Favorites from './components/Favorites';
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, HashRouter } from 'react-router-dom'
 import { useState } from 'react';
 import Header from './components/Header';
 import './App.css';
@@ -136,7 +136,7 @@ function App () {
 
 		<div className="App">
 
-			<BrowserRouter>
+			<HashRouter>
 				<Header getForcast={getForcast} getState={getState} stateKey={stateKey} getWeather={getWeather} />
 				<Routes>
 
@@ -149,7 +149,7 @@ function App () {
 
 				</Routes>
 
-			</BrowserRouter>
+			</HashRouter>
 
 
 		</div>
